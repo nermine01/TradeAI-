@@ -43,17 +43,11 @@ The Tunisian financial market faces several challenges that impact trading activ
 
 We would like to thank our tutors, Bilel FARAH, Feres, and Wiem TRABELSI, for their guidance and support throughout this project. Special thanks to Ahmed Rbaii, Responsable de metier of VALUE Company, for his invaluable contributions. We also extend our gratitude to our team, DIVE (Data Insights & Visualizations Engineers), for their dedication and hard work.
 
-## Contact Information
 
-For more information about TradeIA, please contact:
-
-- **[Nermine Ourimi]**
-- **[nermine.lourimi@gmail.com]**
-- **[https://www.linkedin.com/in/nermine-ourimi-5515b7174/]**
 
 ## Acknowledgments
 I would like to extend my gratitude to my team, DIVE (Data Insights & Visualizations Engineers), for their dedication and hard work:
-Yousri Hamdene, Nermine Haouala , Ons Dekhil , Yahya Amri, Malek Zitouni and Sarah Aissaoui
+Yousri Hamdene, Ons Dekhil , Yahya Amri, Malek Zitouni, Nermine Ourimi and Sarah Aissaoui
 
 ![TradeIA Poster1](Poster1.png)
 ![TradeIA Poster2](Poster2.png)
